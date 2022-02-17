@@ -12,5 +12,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsmith011/Zookeeper2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cjsmith011/Zookeeper2/issues"
+  },
+  "homepage": "https://github.com/cjsmith011/Zookeeper2#readme"
 }
